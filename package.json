@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "angular": "^1.7.9",
-    "auth0-js": "git+https://github.com/compellon/auth0-js.git#v9.13.2-compellon"
+    "auth0-js": "git+https://github.com/compellon/auth0-js.git#v9.13.3-compellon"
   }
 }
