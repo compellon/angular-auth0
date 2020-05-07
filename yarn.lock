@@ -153,9 +153,9 @@ atob@^2.1.1:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-"auth0-js@git+https://github.com/compellon/auth0-js.git#v9.13.3-compellon":
-  version "9.13.3-compellon"
-  resolved "git+https://github.com/compellon/auth0-js.git#6f5ba51920e836bfdb2c6792e37adbf4ad1eae19"
+"auth0-js@git+https://github.com/compellon/auth0-js.git#v9.13.3-compellon2":
+  version "9.13.3-compellon2"
+  resolved "git+https://github.com/compellon/auth0-js.git#888a42f57162e2c39c0dce254e77bfd27b8b0450"
   dependencies:
     base64-js "^1.3.0"
     idtoken-verifier "^2.0.2"
